@@ -10,6 +10,6 @@ liberapay:                 # Optional: add username if used
 issuehunt:                 # Optional: if your repo is listed on IssueHunt
 lfx_crowdfunding:          # Optional: only if listed
 polar:                     # Optional: if you're using Polar.sh
-buy_me_a_coffee: rajeshkumarjogi  # Add your Buy Me a Coffee username
+buy_me_a_coffee: rajeshkumaw  # Add your Buy Me a Coffee username
 thanks_dev:                # Optional
 custom: ['https://www.buymeacoffee.com/rajeshkumarjogi']  # Any direct sponsorship link
