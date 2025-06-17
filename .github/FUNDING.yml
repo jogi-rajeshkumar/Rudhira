@@ -1,0 +1,15 @@
+# These are supported funding model platforms
+
+github: [rajeshkumarjogi]  # Replace with your GitHub username if different
+patreon: rajeshkumarjogi   # Optional: only if you have a Patreon
+open_collective:           # Leave blank if not used
+ko_fi: rajeshkumarjogi     # Optional: only if you have a Ko-fi account
+tidelift:                  # Leave blank unless registered on Tidelift
+community_bridge:          # Leave blank if not applicable
+liberapay:                 # Optional: add username if used
+issuehunt:                 # Optional: if your repo is listed on IssueHunt
+lfx_crowdfunding:          # Optional: only if listed
+polar:                     # Optional: if you're using Polar.sh
+buy_me_a_coffee: rajeshkumarjogi  # Add your Buy Me a Coffee username
+thanks_dev:                # Optional
+custom: ['https://www.buymeacoffee.com/rajeshkumarjogi']  # Any direct sponsorship link
